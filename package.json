@@ -1,0 +1,16 @@
+{
+  "name": "sao-fe-gc-ejercicios-t11-angular-07-2023",
+  "version": "1.0.0",
+  "description": "Primer ejercicio de angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "primer",
+    "ejercicio",
+    "angular"
+  ],
+  "author": "Santi Arroyave",
+  "license": "MIT"
+}
